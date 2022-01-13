@@ -1,5 +1,17 @@
 body{
-    margin:0;
+    margin:0 auto;
     padding: 0;
-    color: pink;
+    color: red;
+    text-align: center;
+    width: 50%;
+
+}
+
+#cabecera{
+    background-color: blue;
+    padding: 20px;
+}
+
+#contenido{
+    border: 1px solid #333;
 }
